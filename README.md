@@ -8,3 +8,8 @@ I am **Davide Ghiotto**, and:
 - 📫 How to reach me: ghiotto.davidenko@gmail.com
 - ⚡ Fun fact: I love going to the gym 💪
 
+## Personal Website
+[davideghiotto.it](https://davideghiotto.it) - personal portfolio website
+
+## Zeus Code Dynamic Shirts
+[zeuscode.it](https://zeuscode.it) - small project on dynamic qr redirection on shirts
