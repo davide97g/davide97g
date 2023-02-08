@@ -3,7 +3,7 @@
 I am **Davide Ghiotto**, and: 
 
 - 🔭 I will soon start working for [BitRock](https://bitrock.it/)
-- 🌱 I’m currently learning `Vue.js`
+- 🌱 I’m currently learning `React`
 - 📫 How to reach me: dghiotto.careers@gmail.com
 - ⚡ Fun fact: I love going to the gym 💪
 
