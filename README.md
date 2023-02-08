@@ -2,14 +2,17 @@
 
 I am **Davide Ghiotto**, and: 
 
-- 🔭 I’m currently working for [Reply S.p.A.](https://www.reply.com/it/)
-- 🌱 I’m currently learning `Angular` + `Firebase`
-- 🤔 I’m looking for help with my [life for weeks](https://github.com/davide97g/life4weeks) project
+- 🔭 I will soon start working for [BitRock](https://bitrock.it/)
+- 🌱 I’m currently learning `Vue.js`
 - 📫 How to reach me: dghiotto.careers@gmail.com
 - ⚡ Fun fact: I love going to the gym 💪
 
+## Skills
+- Frontend: `Javascript` `Typescript` `Vue.js` `Angular`
+- Backend: `Java` `Python` `C#` `C++`
+- AI: `Machine learning` `Neural Nets`
+- Cloud: `Firebase` `GCP` `AWS (basics)`
+- CI/CD: `Github Actions` `Jenkins` `Sonarqube` `Netlify` `Digital Ocean`
+
 ## Personal Website
 [davideghiotto.it](https://davideghiotto.it) - personal portfolio website
-
-## Zeus Code Dynamic Shirts
-[zeuscode.it](https://zeuscode.it) - small project on dynamic qr redirection on shirts
