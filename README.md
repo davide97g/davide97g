@@ -2,7 +2,7 @@
 
 I am **Davide Ghiotto**, and: 
 
-- 🔭 I am working at [Bitrock](https://bitrock.it/)
+- 👨🏻‍💻 I am working at [Bitrock](https://bitrock.it/)
 - 📫 How to reach me: dghiotto.careers@gmail.com
 - ⚡ Fun fact: I love going to the gym 💪
 
