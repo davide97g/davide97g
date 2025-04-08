@@ -2,9 +2,8 @@
 
 I am **Davide Ghiotto**, and: 
 
-- 👨🏻‍💻 I am working at [Bitrock](https://bitrock.it/)
-- 📫 How to reach me: dghiotto.careers@gmail.com
-- ⚡ Fun fact: I love going to the gym 💪
+- Frontend developer with a enough full-stack background to build cool stuff 😎
+- 👨🏻‍💻 Currently working at [Bitrock](https://bitrock.it/)
 
 I have a public profile on Youtube called [@dacoderit](https://www.youtube.com/channel/UCp-6Cv5ksm2mY-xLJqvLVKw)
 - 💬 coding in public, sharing open-source projects, collaboration and more!
