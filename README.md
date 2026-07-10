@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://dacoder.it"><img src="https://img.shields.io/badge/Website-dacoder.it-6C63FF?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Website"/></a>
-  <a href="https://www.youtube.com/@dacoder"><img src="https://img.shields.io/badge/YouTube-@dacoder-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.youtube.com/@davideghi"><img src="https://img.shields.io/badge/YouTube-@davideghi-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="mailto:dacoderit@gmail.com"><img src="https://img.shields.io/badge/Email-dacoderit-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -22,7 +22,7 @@
 
 - 🎨 **Frontend developer** with enough full-stack background to build cool stuff 😎
 - 👨🏻‍💻 Currently working at **[Bitrock](https://bitrock.it/)**
-- 🎥 Coding in public on YouTube as **[@dacoder](https://www.youtube.com/@dacoder)** — open-source projects, live builds & collaboration
+- 🎥 Coding in public on YouTube as **[@davideghi](https://www.youtube.com/@davideghi)** — open-source projects, live builds & collaboration
 - 🌱 Learning how to grow a YouTube channel and how to shoot & edit videos
 - 💞️ Looking to collaborate with anyone who wants to do open-source coding projects
 - ❤️ One Piece manga enthusiast!
@@ -81,7 +81,7 @@ No backend — everything persists right in your browser.
 ### 🌐 Find me around the web
 
 <a href="https://dacoder.it"><img src="https://img.shields.io/badge/dacoder.it-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://www.youtube.com/@dacoder"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/@davideghi"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="mailto:dacoderit@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
