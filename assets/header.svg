@@ -1,0 +1,75 @@
+<svg width="880" height="230" viewBox="0 0 880 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Davide Ghiotto — Full-stack engineer, Frontend lead, Italy">
+  <!--
+    duck/ui sticker card, hand-drawn as SVG because a GitHub profile README
+    cannot run React. Palette is the duck dark theme converted from oklch:
+    canvas #0a0a0d, card #121216, lime #cbda42, holo #c27dff→#5fb6ff→#00d9d9→#70ec90.
+  -->
+  <defs>
+    <linearGradient id="holo" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#c27dff"/>
+      <stop offset="34%" stop-color="#5fb6ff"/>
+      <stop offset="67%" stop-color="#00d9d9"/>
+      <stop offset="100%" stop-color="#70ec90"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-0.25 0;0.25 0;-0.25 0" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <radialGradient id="bloom" cx="50%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="#cbda42" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#cbda42" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="sheen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="rule" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#cbda42"/>
+      <stop offset="100%" stop-color="#cbda42" stop-opacity="0"/>
+    </linearGradient>
+
+    <clipPath id="card">
+      <rect x="4" y="4" width="872" height="222" rx="22"/>
+    </clipPath>
+  </defs>
+
+  <!-- sticker: 3px holo edge over the dark canvas -->
+  <rect x="4" y="4" width="872" height="222" rx="22" fill="#0a0a0d" stroke="url(#holo)" stroke-width="3"/>
+
+  <g clip-path="url(#card)">
+    <rect x="4" y="4" width="872" height="222" fill="url(#bloom)"/>
+
+    <!-- slow sheen, the one idle animation on the card -->
+    <rect x="-300" y="4" width="300" height="222" fill="url(#sheen)">
+      <animate attributeName="x" values="-300;880" dur="6s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1"/>
+    </rect>
+
+    <!-- brand chip, same lime square as the site header -->
+    <g transform="translate(44,44)">
+      <rect width="46" height="46" rx="13" fill="#cbda42"/>
+      <text x="23" y="31" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="700" fill="#1f2200">dg</text>
+    </g>
+
+    <text x="106" y="62" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="-0.6" fill="#f3f3f6">Davide Ghiotto</text>
+    <text x="106" y="84" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="3.4" fill="#9797a0">FULL-STACK ENGINEER · FRONTEND LEAD · ITALY</text>
+
+    <!-- headline, lime carries the last line -->
+    <text x="44" y="146" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="40" font-weight="800" letter-spacing="-1.2" fill="#f3f3f6">Building with agents,</text>
+    <text x="44" y="192" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="40" font-weight="800" letter-spacing="-1.2" fill="#cbda42">in public.</text>
+
+    <rect x="386" y="178" width="0" height="3" rx="1.5" fill="url(#rule)">
+      <animate attributeName="width" values="0;446;446;0" keyTimes="0;0.35;0.8;1" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines="0.16 1 0.3 1;0 0 1 1;0.16 1 0.3 1"/>
+    </rect>
+
+    <!-- status: square dot, because the rest of the HUD is drawn with straight edges -->
+    <g transform="translate(836,44)">
+      <!-- The label is right-anchored, so the dot is offset by roughly its
+           rendered width to keep the LED in front of the words. -->
+      <rect x="-152" y="-9" width="6" height="6" fill="#cbda42">
+        <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/>
+      </rect>
+      <text x="0" y="0" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="3" fill="#cbda42">OPEN TO COLLAB</text>
+    </g>
+  </g>
+</svg>

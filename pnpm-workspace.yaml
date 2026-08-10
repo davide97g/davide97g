@@ -1,0 +1,4 @@
+# next pulls sharp as an optional dependency; the site exports static HTML with
+# `images.unoptimized`, so its native build is neither needed nor run.
+allowBuilds:
+  sharp: false
