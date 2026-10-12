@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T18:00:51.309Z",
+  "generatedAt": "2026-10-12T19:51:58.460Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
@@ -10,8 +10,8 @@
     "publicRepos": 68
   },
   "contributions": {
-    "total": 1707,
-    "commits": 1641,
+    "total": 1708,
+    "commits": 1642,
     "pullRequests": 19,
     "issues": 3,
     "weeks": [
@@ -1582,12 +1582,20 @@
         },
         {
           "date": "2026-10-12",
-          "count": 0
+          "count": 1
         }
       ]
     ]
   },
   "recent": [
+    {
+      "name": "davideghiotto",
+      "description": "Personal website",
+      "url": "https://github.com/davide97g/davideghiotto",
+      "language": "TypeScript",
+      "stars": 0,
+      "pushedAt": "2026-10-12T19:48:47Z"
+    },
     {
       "name": "homelab",
       "description": "Everything that runs on my homelab: apps, stacks, runbooks, one repo",
@@ -1627,14 +1635,6 @@
       "language": "TypeScript",
       "stars": 0,
       "pushedAt": "2026-10-07T06:38:59Z"
-    },
-    {
-      "name": "finance-davide-ghiotto",
-      "description": null,
-      "url": "https://github.com/davide97g/finance-davide-ghiotto",
-      "language": "TypeScript",
-      "stars": 0,
-      "pushedAt": "2026-10-04T17:11:33Z"
     }
   ],
   "videos": [
@@ -1642,7 +1642,7 @@
       "id": "ODXsaA_UhxA",
       "title": "Lego 2.0: Claude Code genera le istruzioni in 3d per la mia tastiera custom",
       "published": "2026-10-12T17:00:43+00:00",
-      "views": 188
+      "views": 461
     },
     {
       "id": "r_bNd7V3wYs",

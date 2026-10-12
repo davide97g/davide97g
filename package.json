@@ -8,9 +8,9 @@
     "build": "next build",
     "start": "next start",
     "typecheck": "tsc --noEmit",
-    "profile": "node scripts/profile/generate.mjs",
-    "profile:offline": "node scripts/profile/generate.mjs --offline",
-    "profile:preview": "node scripts/profile/preview.mjs",
+    "readme": "node scripts/profile/generate.mjs",
+    "readme:offline": "node scripts/profile/generate.mjs --offline",
+    "readme:preview": "node scripts/profile/preview.mjs",
     "lint": "next lint"
   },
   "dependencies": {

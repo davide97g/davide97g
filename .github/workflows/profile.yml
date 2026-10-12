@@ -35,7 +35,7 @@ jobs:
 
       # The workflow token sees public contributions only. A PROFILE_TOKEN secret
       # (classic PAT, read:user) also counts private ones, like a local run does.
-      - run: pnpm profile
+      - run: pnpm readme
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 
