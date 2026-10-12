@@ -14,10 +14,6 @@
     "components": "@/components",
     "utils": "@/lib/utils",
     "ui": "@/components/ui",
-    "lib": "@/lib",
-    "hooks": "@/hooks"
-  },
-  "registries": {
-    "@duck": "https://duckui.davideghiotto.it/r/{name}.json"
+    "lib": "@/lib"
   }
 }

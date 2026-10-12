@@ -1,56 +1,52 @@
-import * as React from "react";
-
 import { cn } from "@/lib/utils";
-import { HudLabel } from "@/components/ui/hud-label";
 
-/**
- * The shell every section below the hero shares: HUD index, display heading,
- * one lead paragraph, then content. Having it in one place is what keeps the
- * page reading as a single document rather than six stacked landing pages.
- */
+/** Section shell: a black index tile, the title, a muted line, a hairline to the edge. */
 export function Section({
   id,
-  label,
+  index,
   title,
-  lead,
-  actions,
+  detail,
+  action,
   className,
   children,
 }: {
   id: string;
-  label: string;
-  title: React.ReactNode;
-  lead?: React.ReactNode;
-  actions?: React.ReactNode;
+  index: string;
+  title: string;
+  detail: string;
+  action?: React.ReactNode;
   className?: string;
   children: React.ReactNode;
 }) {
   return (
-    <section
-      id={id}
-      className={cn(
-        "mx-auto w-full max-w-[1400px] px-4 py-20 sm:px-6 lg:py-28",
-        className
-      )}
-    >
-      <div className="flex flex-col gap-4 md:flex-row md:items-end md:justify-between">
-        <div className="flex max-w-2xl flex-col gap-4">
-          <HudLabel tone="primary" dot>
-            {label}
-          </HudLabel>
-          <h2 className="font-display text-3xl font-extrabold tracking-tight text-balance sm:text-4xl lg:text-5xl">
-            {title}
-          </h2>
-          {lead && (
-            <p className="text-base text-pretty text-muted-foreground sm:text-lg">
-              {lead}
-            </p>
-          )}
-        </div>
-        {actions && <div className="shrink-0">{actions}</div>}
+    <section id={id} aria-labelledby={`${id}-title`} className={cn("scroll-mt-32 lg:scroll-mt-24", className)}>
+      <div data-reveal className="mb-4 flex items-center gap-3">
+        <span className="grid size-8 shrink-0 place-items-center rounded-lg bg-primary font-mono text-xs font-medium text-primary-foreground">
+          {index}
+        </span>
+        <h2 id={`${id}-title`} className="text-2xl font-semibold tracking-tight">
+          {title}
+        </h2>
+        <p className="hidden truncate text-sm text-muted-foreground sm:block">{detail}</p>
+        <span aria-hidden className="ml-2 hidden h-px flex-1 bg-border sm:block" />
+        {action && <div className="ml-auto shrink-0 sm:ml-0">{action}</div>}
       </div>
-
-      <div className="pt-12">{children}</div>
+      <p className="-mt-2 mb-4 text-sm text-muted-foreground sm:hidden">{detail}</p>
+      {children}
     </section>
+  );
+}
+
+/** The card surface every block sits on. `data-card` opts into the pointer spotlight. */
+export function Card({
+  className,
+  children,
+  as: Tag = "div",
+  ...rest
+}: { as?: "div" | "article" | "a" | "li"; className?: string; children: React.ReactNode } & Record<string, unknown>) {
+  return (
+    <Tag data-card data-reveal className={cn("rounded-3xl border bg-card text-card-foreground", className)} {...rest}>
+      {children}
+    </Tag>
   );
 }

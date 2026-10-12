@@ -5,6 +5,11 @@ on:
     branches: [master]
     paths-ignore:
       - "README.md"
+  # The daily snapshot commit is pushed with the workflow token, which never
+  # triggers another push run, so redeploy when the refresh finishes instead.
+  workflow_run:
+    workflows: ["Refresh profile README"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:

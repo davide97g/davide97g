@@ -1,22 +1,13 @@
-import type { Metadata } from "next";
-import { Bricolage_Grotesque } from "next/font/google";
+import type { Metadata, Viewport } from "next";
 import { GeistMono } from "geist/font/mono";
 import { GeistSans } from "geist/font/sans";
 
-import { ThemeProvider } from "@/components/site/theme-provider";
 import { links, profile } from "@/lib/content";
+import { themeScript } from "@/lib/theme";
 
 import "./globals.css";
 
-// Display face, matching davideghiotto.it. Body and code stay on Geist, which
-// ships with the package instead of being fetched at build time.
-const bricolage = Bricolage_Grotesque({
-  subsets: ["latin"],
-  display: "swap",
-  variable: "--font-bricolage",
-});
-
-const title = `${profile.name} — Full-Stack Engineer, Frontend Lead, AI-Native`;
+const title = `${profile.name} — Full-Stack Engineer, Frontend Lead, Agent-Native`;
 const description =
   "Full-stack engineer and frontend lead. Enterprise platforms, LLM systems and agent architectures in production — built in public, streamed on YouTube.";
 
@@ -24,27 +15,25 @@ export const metadata: Metadata = {
   title,
   description,
   authors: [{ name: profile.name, url: links.site }],
-  openGraph: {
-    title,
-    description,
-    type: "profile",
-    url: links.github,
-  },
+  openGraph: { title, description, type: "profile", url: links.github },
   twitter: { card: "summary_large_image", title, description },
 };
 
-export default function RootLayout({
-  children,
-}: Readonly<{ children: React.ReactNode }>) {
+export const viewport: Viewport = {
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#e7e7e7" },
+    { media: "(prefers-color-scheme: dark)", color: "#0a0a0a" },
+  ],
+};
+
+export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
-    // dark-first: duck/ui treats the dark palette as the reference, and
-    // suppressHydrationWarning is what next-themes needs to swap the class.
-    <html lang="en" className="dark" suppressHydrationWarning>
-      <body
-        className={`${GeistSans.variable} ${GeistMono.variable} ${bricolage.variable} antialiased`}
-      >
-        <ThemeProvider>{children}</ThemeProvider>
-      </body>
+    // The theme class is set by the inline script before paint, hence the warning opt-out.
+    <html lang="en" suppressHydrationWarning>
+      <head>
+        <script dangerouslySetInnerHTML={{ __html: themeScript }} />
+      </head>
+      <body className={`${GeistSans.variable} ${GeistMono.variable} antialiased`}>{children}</body>
     </html>
   );
 }

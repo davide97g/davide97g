@@ -1,0 +1,52 @@
+name: Refresh profile README
+
+# Re-fetches GitHub and YouTube data, re-renders README.md and the images in
+# assets/profile, and commits the result when anything changed.
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - "scripts/profile/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      # The workflow token sees public contributions only. A PROFILE_TOKEN secret
+      # (classic PAT, read:user) also counts private ones, like a local run does.
+      - run: pnpm profile
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Commit if changed
+        run: |
+          git add README.md assets/profile
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh profile snapshot"
+          git push
