@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T19:52:35.954Z",
+  "generatedAt": "2026-10-13T12:43:47.983Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
@@ -10,8 +10,8 @@
     "publicRepos": 68
   },
   "contributions": {
-    "total": 1709,
-    "commits": 1643,
+    "total": 1710,
+    "commits": 1644,
     "pullRequests": 19,
     "issues": 3,
     "weeks": [
@@ -1582,12 +1582,24 @@
         },
         {
           "date": "2026-10-12",
-          "count": 2
+          "count": 3
+        },
+        {
+          "date": "2026-10-13",
+          "count": 0
         }
       ]
     ]
   },
   "recent": [
+    {
+      "name": "yt-thumb-gen",
+      "description": null,
+      "url": "https://github.com/davide97g/yt-thumb-gen",
+      "language": "TypeScript",
+      "stars": 0,
+      "pushedAt": "2026-10-12T21:12:46Z"
+    },
     {
       "name": "davideghiotto",
       "description": "Personal website",
@@ -1627,14 +1639,6 @@
       "language": "TypeScript",
       "stars": 2,
       "pushedAt": "2026-10-09T08:39:25Z"
-    },
-    {
-      "name": "calorico",
-      "description": "Contacalorie e diario di macronutrienti in italiano, costruito attorno ai prodotti dei supermercati italiani. React + Fastify + Postgres, PWA installabile, AGPL-3.0.",
-      "url": "https://github.com/davide97g/calorico",
-      "language": "TypeScript",
-      "stars": 0,
-      "pushedAt": "2026-10-07T06:38:59Z"
     }
   ],
   "videos": [
@@ -1642,19 +1646,19 @@
       "id": "ODXsaA_UhxA",
       "title": "Lego 2.0: Claude Code genera le istruzioni in 3d per la mia tastiera custom",
       "published": "2026-10-12T17:00:43+00:00",
-      "views": 478
+      "views": 734
     },
     {
       "id": "r_bNd7V3wYs",
       "title": "Fino a ieri ero una breadboard. Adesso parlo.",
       "published": "2026-10-10T16:50:28+00:00",
-      "views": 1144
+      "views": 1150
     },
     {
       "id": "lLebkmYWYPc",
       "title": "\"Sorry, Claude can't do this\" — so Claude Code built it in 7:40 for $3.72",
       "published": "2026-10-09T15:10:07+00:00",
-      "views": 1336
+      "views": 1342
     }
   ]
 }
