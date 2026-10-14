@@ -38,9 +38,9 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/label-channel-dark.svg"><img width="100%" src="assets/profile/label-channel-light.svg" alt="Channel — Latest uploads on @davideghi"></picture>
 
 <p>
-<a href="https://www.youtube.com/watch?v=ODXsaA_UhxA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/video-1-dark.svg"><img width="32.6%" src="assets/profile/video-1-light.svg" alt="Lego 2.0: Claude Code genera le istruzioni in 3d per la mia tastiera custom"></picture></a>
-<a href="https://www.youtube.com/watch?v=r_bNd7V3wYs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/video-2-dark.svg"><img width="32.6%" src="assets/profile/video-2-light.svg" alt="Fino a ieri ero una breadboard. Adesso parlo."></picture></a>
-<a href="https://www.youtube.com/watch?v=lLebkmYWYPc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/video-3-dark.svg"><img width="32.6%" src="assets/profile/video-3-light.svg" alt=""Sorry, Claude can't do this" — so Claude Code built it in 7:40 for $3.72"></picture></a>
+<a href="https://www.youtube.com/watch?v=5Ys7TIxCHs8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/video-1-dark.svg"><img width="32.6%" src="assets/profile/video-1-light.svg" alt="A message to all the AI hype gurus"></picture></a>
+<a href="https://www.youtube.com/watch?v=ODXsaA_UhxA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/video-2-dark.svg"><img width="32.6%" src="assets/profile/video-2-light.svg" alt="Lego 2.0: Claude Code genera le istruzioni in 3d per la mia tastiera custom"></picture></a>
+<a href="https://www.youtube.com/watch?v=r_bNd7V3wYs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/video-3-dark.svg"><img width="32.6%" src="assets/profile/video-3-light.svg" alt="Fino a ieri ero una breadboard. Adesso parlo."></picture></a>
 </p>
 
 <details>
@@ -71,4 +71,4 @@ The long version lives at **[davide97g.github.io/davide97g](https://davide97g.gi
 
 <br/>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/footer-dark.svg"><img width="100%" src="assets/profile/footer-light.svg" alt="Snapshot taken 13 Oct 2026"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/footer-dark.svg"><img width="100%" src="assets/profile/footer-light.svg" alt="Snapshot taken 14 Oct 2026"></picture>
