@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T10:14:24.249Z",
+  "generatedAt": "2026-10-15T09:56:03.882Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
@@ -10,8 +10,8 @@
     "publicRepos": 68
   },
   "contributions": {
-    "total": 1714,
-    "commits": 1648,
+    "total": 1718,
+    "commits": 1652,
     "pullRequests": 19,
     "issues": 3,
     "weeks": [
@@ -1590,6 +1590,10 @@
         },
         {
           "date": "2026-10-14",
+          "count": 4
+        },
+        {
+          "date": "2026-10-15",
           "count": 0
         }
       ]
@@ -1602,15 +1606,15 @@
       "url": "https://github.com/davide97g/davideghiotto",
       "language": "TypeScript",
       "stars": 0,
-      "pushedAt": "2026-10-13T22:01:00Z"
+      "pushedAt": "2026-10-15T07:58:15Z"
     },
     {
       "name": "autocratico",
       "description": "Local register for Italian bureaucracy: deadlines, cases and a Claude Code chat. Data stays on your machine.",
       "url": "https://github.com/davide97g/autocratico",
       "language": "TypeScript",
-      "stars": 2,
-      "pushedAt": "2026-10-13T20:22:02Z"
+      "stars": 3,
+      "pushedAt": "2026-10-14T11:40:26Z"
     },
     {
       "name": "yt-thumb-gen",
@@ -1647,22 +1651,22 @@
   ],
   "videos": [
     {
+      "id": "fDwowodGrKo",
+      "title": "Autocratico: Creative Mode",
+      "published": "2026-10-14T15:07:50+00:00",
+      "views": 40
+    },
+    {
       "id": "5Ys7TIxCHs8",
       "title": "A message to all the AI hype gurus",
       "published": "2026-10-13T16:07:09+00:00",
-      "views": 536
+      "views": 547
     },
     {
       "id": "ODXsaA_UhxA",
       "title": "Lego 2.0: Claude Code genera le istruzioni in 3d per la mia tastiera custom",
       "published": "2026-10-12T17:00:43+00:00",
-      "views": 768
-    },
-    {
-      "id": "r_bNd7V3wYs",
-      "title": "Fino a ieri ero una breadboard. Adesso parlo.",
-      "published": "2026-10-10T16:50:28+00:00",
-      "views": 1156
+      "views": 795
     }
   ]
 }
