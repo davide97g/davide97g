@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T09:51:09.902Z",
+  "generatedAt": "2026-10-17T09:22:39.119Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
@@ -1599,6 +1599,10 @@
         {
           "date": "2026-10-16",
           "count": 0
+        },
+        {
+          "date": "2026-10-17",
+          "count": 0
         }
       ]
     ]
@@ -1658,13 +1662,13 @@
       "id": "fDwowodGrKo",
       "title": "Autocratico: Creative Mode",
       "published": "2026-10-14T15:07:50+00:00",
-      "views": 65
+      "views": 72
     },
     {
       "id": "5Ys7TIxCHs8",
       "title": "A message to all the AI hype gurus",
       "published": "2026-10-13T16:07:09+00:00",
-      "views": 553
+      "views": 555
     },
     {
       "id": "ODXsaA_UhxA",
