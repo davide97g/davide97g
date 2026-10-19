@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-18T09:38:56.700Z",
+  "generatedAt": "2026-10-19T10:47:38.203Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
     "location": "Vicenza - Italy",
     "createdAt": "2018-11-29T12:21:46Z",
     "followers": 8,
-    "following": 6,
+    "following": 7,
     "publicRepos": 69
   },
   "contributions": {
-    "total": 1722,
-    "commits": 1655,
-    "pullRequests": 19,
+    "total": 1708,
+    "commits": 1645,
+    "pullRequests": 18,
     "issues": 3,
     "weeks": [
       [
@@ -1578,6 +1578,10 @@
       [
         {
           "date": "2026-10-18",
+          "count": 1
+        },
+        {
+          "date": "2026-10-19",
           "count": 0
         }
       ]
@@ -1590,7 +1594,15 @@
       "url": "https://github.com/davide97g/calorico",
       "language": "TypeScript",
       "stars": 0,
-      "pushedAt": "2026-10-16T02:57:53Z"
+      "pushedAt": "2026-10-18T18:03:49Z"
+    },
+    {
+      "name": "autocratico",
+      "description": "Local register for Italian bureaucracy: deadlines, cases and a Claude Code chat. Data stays on your machine.",
+      "url": "https://github.com/davide97g/autocratico",
+      "language": "TypeScript",
+      "stars": 3,
+      "pushedAt": "2026-10-18T11:43:12Z"
     },
     {
       "name": "tomoe",
@@ -1607,14 +1619,6 @@
       "language": "TypeScript",
       "stars": 0,
       "pushedAt": "2026-10-15T10:33:05Z"
-    },
-    {
-      "name": "autocratico",
-      "description": "Local register for Italian bureaucracy: deadlines, cases and a Claude Code chat. Data stays on your machine.",
-      "url": "https://github.com/davide97g/autocratico",
-      "language": "TypeScript",
-      "stars": 3,
-      "pushedAt": "2026-10-14T11:40:26Z"
     },
     {
       "name": "yt-thumb-gen",
@@ -1638,7 +1642,7 @@
       "id": "fDwowodGrKo",
       "title": "Autocratico: Creative Mode",
       "published": "2026-10-14T15:07:50+00:00",
-      "views": 77
+      "views": 82
     },
     {
       "id": "5Ys7TIxCHs8",
@@ -1650,7 +1654,7 @@
       "id": "ODXsaA_UhxA",
       "title": "Lego 2.0: Claude Code genera le istruzioni in 3d per la mia tastiera custom",
       "published": "2026-10-12T17:00:43+00:00",
-      "views": 797
+      "views": 798
     }
   ]
 }
