@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T10:47:38.203Z",
+  "generatedAt": "2026-10-20T10:05:48.576Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
@@ -10,8 +10,8 @@
     "publicRepos": 69
   },
   "contributions": {
-    "total": 1708,
-    "commits": 1645,
+    "total": 1711,
+    "commits": 1648,
     "pullRequests": 18,
     "issues": 3,
     "weeks": [
@@ -1578,16 +1578,28 @@
       [
         {
           "date": "2026-10-18",
-          "count": 1
+          "count": 2
         },
         {
           "date": "2026-10-19",
+          "count": 2
+        },
+        {
+          "date": "2026-10-20",
           "count": 0
         }
       ]
     ]
   },
   "recent": [
+    {
+      "name": "homelab",
+      "description": "Everything that runs on my homelab: apps, stacks, runbooks, one repo",
+      "url": "https://github.com/davide97g/homelab",
+      "language": "Swift",
+      "stars": 0,
+      "pushedAt": "2026-10-19T18:03:00Z"
+    },
     {
       "name": "calorico",
       "description": "Contacalorie e diario di macronutrienti in italiano, costruito attorno ai prodotti dei supermercati italiani. React + Fastify + Postgres, PWA installabile, AGPL-3.0.",
@@ -1627,14 +1639,6 @@
       "language": "TypeScript",
       "stars": 0,
       "pushedAt": "2026-10-12T21:12:46Z"
-    },
-    {
-      "name": "homelab",
-      "description": "Everything that runs on my homelab: apps, stacks, runbooks, one repo",
-      "url": "https://github.com/davide97g/homelab",
-      "language": "Swift",
-      "stars": 0,
-      "pushedAt": "2026-10-10T21:47:38Z"
     }
   ],
   "videos": [
@@ -1642,7 +1646,7 @@
       "id": "fDwowodGrKo",
       "title": "Autocratico: Creative Mode",
       "published": "2026-10-14T15:07:50+00:00",
-      "views": 82
+      "views": 85
     },
     {
       "id": "5Ys7TIxCHs8",
