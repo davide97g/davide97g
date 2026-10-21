@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T10:05:48.576Z",
+  "generatedAt": "2026-10-21T10:09:45.833Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
@@ -10,8 +10,8 @@
     "publicRepos": 69
   },
   "contributions": {
-    "total": 1711,
-    "commits": 1648,
+    "total": 1714,
+    "commits": 1651,
     "pullRequests": 18,
     "issues": 3,
     "weeks": [
@@ -1586,19 +1586,47 @@
         },
         {
           "date": "2026-10-20",
-          "count": 0
+          "count": 2
+        },
+        {
+          "date": "2026-10-21",
+          "count": 1
         }
       ]
     ]
   },
   "recent": [
     {
+      "name": "autocratico",
+      "description": "Local register for Italian bureaucracy: deadlines, cases and a Claude Code chat. Data stays on your machine.",
+      "url": "https://github.com/davide97g/autocratico",
+      "language": "TypeScript",
+      "stars": 4,
+      "pushedAt": "2026-10-20T22:08:38Z"
+    },
+    {
+      "name": "davideghiotto",
+      "description": "Personal website",
+      "url": "https://github.com/davide97g/davideghiotto",
+      "language": "TypeScript",
+      "stars": 0,
+      "pushedAt": "2026-10-20T22:03:11Z"
+    },
+    {
+      "name": "keybordy",
+      "description": "ESP32 DevKit keyboard: 8 MX switches on jumpers, rotary later, with a fully local Velxio simulator",
+      "url": "https://github.com/davide97g/keybordy",
+      "language": "TypeScript",
+      "stars": 0,
+      "pushedAt": "2026-10-20T21:37:34Z"
+    },
+    {
       "name": "homelab",
       "description": "Everything that runs on my homelab: apps, stacks, runbooks, one repo",
       "url": "https://github.com/davide97g/homelab",
       "language": "Swift",
       "stars": 0,
-      "pushedAt": "2026-10-19T18:03:00Z"
+      "pushedAt": "2026-10-20T21:37:01Z"
     },
     {
       "name": "calorico",
@@ -1606,15 +1634,7 @@
       "url": "https://github.com/davide97g/calorico",
       "language": "TypeScript",
       "stars": 0,
-      "pushedAt": "2026-10-18T18:03:49Z"
-    },
-    {
-      "name": "autocratico",
-      "description": "Local register for Italian bureaucracy: deadlines, cases and a Claude Code chat. Data stays on your machine.",
-      "url": "https://github.com/davide97g/autocratico",
-      "language": "TypeScript",
-      "stars": 3,
-      "pushedAt": "2026-10-18T11:43:12Z"
+      "pushedAt": "2026-10-20T21:04:13Z"
     },
     {
       "name": "tomoe",
@@ -1623,22 +1643,6 @@
       "language": "TypeScript",
       "stars": 0,
       "pushedAt": "2026-10-15T12:57:59Z"
-    },
-    {
-      "name": "davideghiotto",
-      "description": "Personal website",
-      "url": "https://github.com/davide97g/davideghiotto",
-      "language": "TypeScript",
-      "stars": 0,
-      "pushedAt": "2026-10-15T10:33:05Z"
-    },
-    {
-      "name": "yt-thumb-gen",
-      "description": null,
-      "url": "https://github.com/davide97g/yt-thumb-gen",
-      "language": "TypeScript",
-      "stars": 0,
-      "pushedAt": "2026-10-12T21:12:46Z"
     }
   ],
   "videos": [
@@ -1646,19 +1650,19 @@
       "id": "fDwowodGrKo",
       "title": "Autocratico: Creative Mode",
       "published": "2026-10-14T15:07:50+00:00",
-      "views": 85
+      "views": 86
     },
     {
       "id": "5Ys7TIxCHs8",
       "title": "A message to all the AI hype gurus",
       "published": "2026-10-13T16:07:09+00:00",
-      "views": 555
+      "views": 556
     },
     {
       "id": "ODXsaA_UhxA",
       "title": "Lego 2.0: Claude Code genera le istruzioni in 3d per la mia tastiera custom",
       "published": "2026-10-12T17:00:43+00:00",
-      "views": 798
+      "views": 799
     }
   ]
 }
