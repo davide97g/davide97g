@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T10:09:45.833Z",
+  "generatedAt": "2026-10-22T10:12:11.023Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
@@ -10,8 +10,8 @@
     "publicRepos": 69
   },
   "contributions": {
-    "total": 1714,
-    "commits": 1651,
+    "total": 1716,
+    "commits": 1653,
     "pullRequests": 18,
     "issues": 3,
     "weeks": [
@@ -1590,19 +1590,31 @@
         },
         {
           "date": "2026-10-21",
-          "count": 1
+          "count": 3
+        },
+        {
+          "date": "2026-10-22",
+          "count": 0
         }
       ]
     ]
   },
   "recent": [
     {
+      "name": "yt-thumb-gen",
+      "description": null,
+      "url": "https://github.com/davide97g/yt-thumb-gen",
+      "language": "TypeScript",
+      "stars": 0,
+      "pushedAt": "2026-10-21T15:55:07Z"
+    },
+    {
       "name": "autocratico",
       "description": "Local register for Italian bureaucracy: deadlines, cases and a Claude Code chat. Data stays on your machine.",
       "url": "https://github.com/davide97g/autocratico",
       "language": "TypeScript",
       "stars": 4,
-      "pushedAt": "2026-10-20T22:08:38Z"
+      "pushedAt": "2026-10-21T14:45:03Z"
     },
     {
       "name": "davideghiotto",
@@ -1635,17 +1647,15 @@
       "language": "TypeScript",
       "stars": 0,
       "pushedAt": "2026-10-20T21:04:13Z"
-    },
-    {
-      "name": "tomoe",
-      "description": "A chat that designs dashboards and widgets on top of any app, on your Claude subscription.",
-      "url": "https://github.com/davide97g/tomoe",
-      "language": "TypeScript",
-      "stars": 0,
-      "pushedAt": "2026-10-15T12:57:59Z"
     }
   ],
   "videos": [
+    {
+      "id": "sa-TQLyz2E8",
+      "title": "Custom PCB review per la mia tastiera keybordy MP",
+      "published": "2026-10-22T09:29:30+00:00",
+      "views": 780
+    },
     {
       "id": "fDwowodGrKo",
       "title": "Autocratico: Creative Mode",
@@ -1657,12 +1667,6 @@
       "title": "A message to all the AI hype gurus",
       "published": "2026-10-13T16:07:09+00:00",
       "views": 556
-    },
-    {
-      "id": "ODXsaA_UhxA",
-      "title": "Lego 2.0: Claude Code genera le istruzioni in 3d per la mia tastiera custom",
-      "published": "2026-10-12T17:00:43+00:00",
-      "views": 799
     }
   ]
 }
