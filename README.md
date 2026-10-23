@@ -38,9 +38,9 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/label-channel-dark.svg"><img width="100%" src="assets/profile/label-channel-light.svg" alt="Channel — Latest uploads on @davideghi"></picture>
 
 <p>
-<a href="https://www.youtube.com/watch?v=sa-TQLyz2E8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/video-1-dark.svg"><img width="32.6%" src="assets/profile/video-1-light.svg" alt="Custom PCB review per la mia tastiera keybordy MP"></picture></a>
-<a href="https://www.youtube.com/watch?v=fDwowodGrKo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/video-2-dark.svg"><img width="32.6%" src="assets/profile/video-2-light.svg" alt="Autocratico: Creative Mode"></picture></a>
-<a href="https://www.youtube.com/watch?v=5Ys7TIxCHs8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/video-3-dark.svg"><img width="32.6%" src="assets/profile/video-3-light.svg" alt="A message to all the AI hype gurus"></picture></a>
+<a href="https://www.youtube.com/watch?v=123vez064p4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/video-1-dark.svg"><img width="32.6%" src="assets/profile/video-1-light.svg" alt="L'ho quasi fritta… ma funziona! Custom keyboard + PCB | keybordy MP"></picture></a>
+<a href="https://www.youtube.com/watch?v=sa-TQLyz2E8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/video-2-dark.svg"><img width="32.6%" src="assets/profile/video-2-light.svg" alt="Custom PCB review per la mia tastiera keybordy MP"></picture></a>
+<a href="https://www.youtube.com/watch?v=fDwowodGrKo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/video-3-dark.svg"><img width="32.6%" src="assets/profile/video-3-light.svg" alt="Autocratico: Creative Mode"></picture></a>
 </p>
 
 <details>
@@ -71,4 +71,4 @@ The long version lives at **[davide97g.github.io/davide97g](https://davide97g.gi
 
 <br/>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/footer-dark.svg"><img width="100%" src="assets/profile/footer-light.svg" alt="Snapshot taken 22 Oct 2026"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/footer-dark.svg"><img width="100%" src="assets/profile/footer-light.svg" alt="Snapshot taken 23 Oct 2026"></picture>

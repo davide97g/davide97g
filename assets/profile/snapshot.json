@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T10:12:11.023Z",
+  "generatedAt": "2026-10-23T10:04:46.204Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
@@ -1595,11 +1595,23 @@
         {
           "date": "2026-10-22",
           "count": 0
+        },
+        {
+          "date": "2026-10-23",
+          "count": 0
         }
       ]
     ]
   },
   "recent": [
+    {
+      "name": "keybordy",
+      "description": "ESP32 DevKit keyboard: 8 MX switches on jumpers, rotary later, with a fully local Velxio simulator",
+      "url": "https://github.com/davide97g/keybordy",
+      "language": "TypeScript",
+      "stars": 0,
+      "pushedAt": "2026-10-22T14:50:54Z"
+    },
     {
       "name": "yt-thumb-gen",
       "description": null,
@@ -1625,14 +1637,6 @@
       "pushedAt": "2026-10-20T22:03:11Z"
     },
     {
-      "name": "keybordy",
-      "description": "ESP32 DevKit keyboard: 8 MX switches on jumpers, rotary later, with a fully local Velxio simulator",
-      "url": "https://github.com/davide97g/keybordy",
-      "language": "TypeScript",
-      "stars": 0,
-      "pushedAt": "2026-10-20T21:37:34Z"
-    },
-    {
       "name": "homelab",
       "description": "Everything that runs on my homelab: apps, stacks, runbooks, one repo",
       "url": "https://github.com/davide97g/homelab",
@@ -1651,22 +1655,22 @@
   ],
   "videos": [
     {
+      "id": "123vez064p4",
+      "title": "L'ho quasi fritta… ma funziona! Custom keyboard + PCB | keybordy MP",
+      "published": "2026-10-22T12:30:05+00:00",
+      "views": 46
+    },
+    {
       "id": "sa-TQLyz2E8",
       "title": "Custom PCB review per la mia tastiera keybordy MP",
       "published": "2026-10-22T09:29:30+00:00",
-      "views": 780
+      "views": 791
     },
     {
       "id": "fDwowodGrKo",
       "title": "Autocratico: Creative Mode",
       "published": "2026-10-14T15:07:50+00:00",
       "views": 86
-    },
-    {
-      "id": "5Ys7TIxCHs8",
-      "title": "A message to all the AI hype gurus",
-      "published": "2026-10-13T16:07:09+00:00",
-      "views": 556
     }
   ]
 }
