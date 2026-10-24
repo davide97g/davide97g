@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T10:04:46.204Z",
+  "generatedAt": "2026-10-24T09:33:01.529Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
@@ -10,8 +10,8 @@
     "publicRepos": 69
   },
   "contributions": {
-    "total": 1716,
-    "commits": 1653,
+    "total": 1723,
+    "commits": 1660,
     "pullRequests": 18,
     "issues": 3,
     "weeks": [
@@ -1598,12 +1598,24 @@
         },
         {
           "date": "2026-10-23",
+          "count": 7
+        },
+        {
+          "date": "2026-10-24",
           "count": 0
         }
       ]
     ]
   },
   "recent": [
+    {
+      "name": "autocratico",
+      "description": "Local register for Italian bureaucracy: deadlines, cases and a Claude Code chat. Data stays on your machine.",
+      "url": "https://github.com/davide97g/autocratico",
+      "language": "TypeScript",
+      "stars": 4,
+      "pushedAt": "2026-10-23T18:41:30Z"
+    },
     {
       "name": "keybordy",
       "description": "ESP32 DevKit keyboard: 8 MX switches on jumpers, rotary later, with a fully local Velxio simulator",
@@ -1619,14 +1631,6 @@
       "language": "TypeScript",
       "stars": 0,
       "pushedAt": "2026-10-21T15:55:07Z"
-    },
-    {
-      "name": "autocratico",
-      "description": "Local register for Italian bureaucracy: deadlines, cases and a Claude Code chat. Data stays on your machine.",
-      "url": "https://github.com/davide97g/autocratico",
-      "language": "TypeScript",
-      "stars": 4,
-      "pushedAt": "2026-10-21T14:45:03Z"
     },
     {
       "name": "davideghiotto",
@@ -1655,22 +1659,22 @@
   ],
   "videos": [
     {
+      "id": "uBSCt3gec5s",
+      "title": "Doveva essere una live di 20 minuti… è durata 1h 39m #shorts",
+      "published": "2026-10-23T15:00:46+00:00",
+      "views": 694
+    },
+    {
       "id": "123vez064p4",
       "title": "L'ho quasi fritta… ma funziona! Custom keyboard + PCB | keybordy MP",
       "published": "2026-10-22T12:30:05+00:00",
-      "views": 46
+      "views": 114
     },
     {
       "id": "sa-TQLyz2E8",
       "title": "Custom PCB review per la mia tastiera keybordy MP",
       "published": "2026-10-22T09:29:30+00:00",
-      "views": 791
-    },
-    {
-      "id": "fDwowodGrKo",
-      "title": "Autocratico: Creative Mode",
-      "published": "2026-10-14T15:07:50+00:00",
-      "views": 86
+      "views": 801
     }
   ]
 }
