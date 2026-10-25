@@ -71,4 +71,4 @@ The long version lives at **[davide97g.github.io/davide97g](https://davide97g.gi
 
 <br/>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/footer-dark.svg"><img width="100%" src="assets/profile/footer-light.svg" alt="Snapshot taken 24 Oct 2026"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/footer-dark.svg"><img width="100%" src="assets/profile/footer-light.svg" alt="Snapshot taken 25 Oct 2026"></picture>

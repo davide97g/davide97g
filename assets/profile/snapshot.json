@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T09:33:01.529Z",
+  "generatedAt": "2026-10-25T09:49:37.004Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
@@ -10,41 +10,11 @@
     "publicRepos": 69
   },
   "contributions": {
-    "total": 1723,
-    "commits": 1660,
+    "total": 1724,
+    "commits": 1661,
     "pullRequests": 18,
     "issues": 3,
     "weeks": [
-      [
-        {
-          "date": "2025-10-19",
-          "count": 0
-        },
-        {
-          "date": "2025-10-20",
-          "count": 0
-        },
-        {
-          "date": "2025-10-21",
-          "count": 0
-        },
-        {
-          "date": "2025-10-22",
-          "count": 2
-        },
-        {
-          "date": "2025-10-23",
-          "count": 2
-        },
-        {
-          "date": "2025-10-24",
-          "count": 0
-        },
-        {
-          "date": "2025-10-25",
-          "count": 0
-        }
-      ],
       [
         {
           "date": "2025-10-26",
@@ -1602,6 +1572,12 @@
         },
         {
           "date": "2026-10-24",
+          "count": 1
+        }
+      ],
+      [
+        {
+          "date": "2026-10-25",
           "count": 0
         }
       ]
@@ -1614,7 +1590,7 @@
       "url": "https://github.com/davide97g/autocratico",
       "language": "TypeScript",
       "stars": 4,
-      "pushedAt": "2026-10-23T18:41:30Z"
+      "pushedAt": "2026-10-24T13:14:26Z"
     },
     {
       "name": "keybordy",
@@ -1662,19 +1638,19 @@
       "id": "uBSCt3gec5s",
       "title": "Doveva essere una live di 20 minuti… è durata 1h 39m #shorts",
       "published": "2026-10-23T15:00:46+00:00",
-      "views": 694
+      "views": 704
     },
     {
       "id": "123vez064p4",
       "title": "L'ho quasi fritta… ma funziona! Custom keyboard + PCB | keybordy MP",
       "published": "2026-10-22T12:30:05+00:00",
-      "views": 114
+      "views": 234
     },
     {
       "id": "sa-TQLyz2E8",
       "title": "Custom PCB review per la mia tastiera keybordy MP",
       "published": "2026-10-22T09:29:30+00:00",
-      "views": 801
+      "views": 807
     }
   ]
 }
