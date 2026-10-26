@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T09:49:37.004Z",
+  "generatedAt": "2026-10-26T11:07:56.921Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
@@ -7,12 +7,12 @@
     "createdAt": "2018-11-29T12:21:46Z",
     "followers": 8,
     "following": 7,
-    "publicRepos": 69
+    "publicRepos": 70
   },
   "contributions": {
-    "total": 1724,
-    "commits": 1661,
-    "pullRequests": 18,
+    "total": 1746,
+    "commits": 1685,
+    "pullRequests": 17,
     "issues": 3,
     "weeks": [
       [
@@ -1578,12 +1578,32 @@
       [
         {
           "date": "2026-10-25",
+          "count": 26
+        },
+        {
+          "date": "2026-10-26",
           "count": 0
         }
       ]
     ]
   },
   "recent": [
+    {
+      "name": "riddle",
+      "description": null,
+      "url": "https://github.com/davide97g/riddle",
+      "language": "Python",
+      "stars": 0,
+      "pushedAt": "2026-10-25T19:51:34Z"
+    },
+    {
+      "name": "aftergrowth",
+      "description": "A cozy browser game: farming and hand-drawn ink magic on floating sky-islands, with portals, a market and other witches.",
+      "url": "https://github.com/davide97g/aftergrowth",
+      "language": "TypeScript",
+      "stars": 0,
+      "pushedAt": "2026-10-25T19:42:34Z"
+    },
     {
       "name": "autocratico",
       "description": "Local register for Italian bureaucracy: deadlines, cases and a Claude Code chat. Data stays on your machine.",
@@ -1615,22 +1635,6 @@
       "language": "TypeScript",
       "stars": 0,
       "pushedAt": "2026-10-20T22:03:11Z"
-    },
-    {
-      "name": "homelab",
-      "description": "Everything that runs on my homelab: apps, stacks, runbooks, one repo",
-      "url": "https://github.com/davide97g/homelab",
-      "language": "Swift",
-      "stars": 0,
-      "pushedAt": "2026-10-20T21:37:01Z"
-    },
-    {
-      "name": "calorico",
-      "description": "Contacalorie e diario di macronutrienti in italiano, costruito attorno ai prodotti dei supermercati italiani. React + Fastify + Postgres, PWA installabile, AGPL-3.0.",
-      "url": "https://github.com/davide97g/calorico",
-      "language": "TypeScript",
-      "stars": 0,
-      "pushedAt": "2026-10-20T21:04:13Z"
     }
   ],
   "videos": [
@@ -1638,19 +1642,19 @@
       "id": "uBSCt3gec5s",
       "title": "Doveva essere una live di 20 minuti… è durata 1h 39m #shorts",
       "published": "2026-10-23T15:00:46+00:00",
-      "views": 704
+      "views": 707
     },
     {
       "id": "123vez064p4",
       "title": "L'ho quasi fritta… ma funziona! Custom keyboard + PCB | keybordy MP",
       "published": "2026-10-22T12:30:05+00:00",
-      "views": 234
+      "views": 304
     },
     {
       "id": "sa-TQLyz2E8",
       "title": "Custom PCB review per la mia tastiera keybordy MP",
       "published": "2026-10-22T09:29:30+00:00",
-      "views": 807
+      "views": 813
     }
   ]
 }
