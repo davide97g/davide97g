@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T11:24:29.076Z",
+  "generatedAt": "2026-10-31T10:55:58.087Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
@@ -1599,6 +1599,10 @@
         {
           "date": "2026-10-30",
           "count": 0
+        },
+        {
+          "date": "2026-10-31",
+          "count": 0
         }
       ]
     ]
@@ -1610,7 +1614,7 @@
       "url": "https://github.com/davide97g/calorico",
       "language": "TypeScript",
       "stars": 0,
-      "pushedAt": "2026-10-29T01:04:49Z"
+      "pushedAt": "2026-10-31T05:52:54Z"
     },
     {
       "name": "keybordy",
@@ -1664,7 +1668,7 @@
       "id": "9NBNYYdivkE",
       "title": "Il mio Stream Deck fatto con l'AI: funziona tutto - keybordy MP (live)",
       "published": "2026-10-27T10:33:21+00:00",
-      "views": 262
+      "views": 283
     },
     {
       "id": "uBSCt3gec5s",
