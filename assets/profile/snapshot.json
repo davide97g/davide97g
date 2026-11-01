@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T10:55:58.087Z",
+  "generatedAt": "2026-11-01T11:51:04.986Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
@@ -15,36 +15,6 @@
     "pullRequests": 17,
     "issues": 3,
     "weeks": [
-      [
-        {
-          "date": "2025-10-26",
-          "count": 0
-        },
-        {
-          "date": "2025-10-27",
-          "count": 0
-        },
-        {
-          "date": "2025-10-28",
-          "count": 0
-        },
-        {
-          "date": "2025-10-29",
-          "count": 3
-        },
-        {
-          "date": "2025-10-30",
-          "count": 4
-        },
-        {
-          "date": "2025-10-31",
-          "count": 49
-        },
-        {
-          "date": "2025-11-01",
-          "count": 14
-        }
-      ],
       [
         {
           "date": "2025-11-02",
@@ -1604,6 +1574,12 @@
           "date": "2026-10-31",
           "count": 0
         }
+      ],
+      [
+        {
+          "date": "2026-11-01",
+          "count": 0
+        }
       ]
     ]
   },
@@ -1668,7 +1644,7 @@
       "id": "9NBNYYdivkE",
       "title": "Il mio Stream Deck fatto con l'AI: funziona tutto - keybordy MP (live)",
       "published": "2026-10-27T10:33:21+00:00",
-      "views": 283
+      "views": 285
     },
     {
       "id": "uBSCt3gec5s",
