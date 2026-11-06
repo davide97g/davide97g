@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T13:13:18.324Z",
+  "generatedAt": "2026-11-06T12:57:56.774Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
@@ -7,11 +7,11 @@
     "createdAt": "2018-11-29T12:21:46Z",
     "followers": 8,
     "following": 7,
-    "publicRepos": 70
+    "publicRepos": 71
   },
   "contributions": {
-    "total": 1686,
-    "commits": 1633,
+    "total": 1688,
+    "commits": 1634,
     "pullRequests": 10,
     "issues": 3,
     "weeks": [
@@ -1595,11 +1595,23 @@
         {
           "date": "2026-11-05",
           "count": 0
+        },
+        {
+          "date": "2026-11-06",
+          "count": 2
         }
       ]
     ]
   },
   "recent": [
+    {
+      "name": "touchgrass",
+      "description": "An endless anime grassland in the browser: walk through it, feel the wind, breathe. WebGL2 + three.js, procedural everything.",
+      "url": "https://github.com/davide97g/touchgrass",
+      "language": "TypeScript",
+      "stars": 0,
+      "pushedAt": "2026-11-06T11:39:08Z"
+    },
     {
       "name": "homelab",
       "description": "Everything that runs on my homelab: apps, stacks, runbooks, one repo",
@@ -1639,14 +1651,6 @@
       "language": "TypeScript",
       "stars": 4,
       "pushedAt": "2026-11-02T23:36:11Z"
-    },
-    {
-      "name": "aftergrowth",
-      "description": "A cozy browser game: farming and hand-drawn ink magic on floating sky-islands, with portals, a market and other witches.",
-      "url": "https://github.com/davide97g/aftergrowth",
-      "language": "TypeScript",
-      "stars": 0,
-      "pushedAt": "2026-11-02T23:16:33Z"
     }
   ],
   "videos": [
@@ -1654,7 +1658,7 @@
       "id": "4ldZEV2msNw",
       "title": "269 holo cards, one game: Zero Shot × Codemotion Milan 2026 #Shorts",
       "published": "2026-11-02T18:30:15+00:00",
-      "views": 34
+      "views": 35
     },
     {
       "id": "H4kOl3wMkUQ",
@@ -1666,7 +1670,7 @@
       "id": "9NBNYYdivkE",
       "title": "Il mio Stream Deck fatto con l'AI: funziona tutto - keybordy MP (live)",
       "published": "2026-10-27T10:33:21+00:00",
-      "views": 292
+      "views": 294
     }
   ]
 }
