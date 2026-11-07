@@ -38,9 +38,9 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/label-channel-dark.svg"><img width="100%" src="assets/profile/label-channel-light.svg" alt="Channel — Latest uploads on @davideghi"></picture>
 
 <p>
-<a href="https://www.youtube.com/watch?v=4ldZEV2msNw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/video-1-dark.svg"><img width="32.6%" src="assets/profile/video-1-light.svg" alt="269 holo cards, one game: Zero Shot × Codemotion Milan 2026 #Shorts"></picture></a>
-<a href="https://www.youtube.com/watch?v=H4kOl3wMkUQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/video-2-dark.svg"><img width="32.6%" src="assets/profile/video-2-light.svg" alt="Pokémon Smeraldo, ma lo starter è un'IA"></picture></a>
-<a href="https://www.youtube.com/watch?v=9NBNYYdivkE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/video-3-dark.svg"><img width="32.6%" src="assets/profile/video-3-light.svg" alt="Il mio Stream Deck fatto con l'AI: funziona tutto - keybordy MP (live)"></picture></a>
+<a href="https://www.youtube.com/watch?v=FSdOmHUcD5w"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/video-1-dark.svg"><img width="32.6%" src="assets/profile/video-1-light.svg" alt="Dopo il vibecoding: Touch Grass | Organic Software Experience"></picture></a>
+<a href="https://www.youtube.com/watch?v=4ldZEV2msNw"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/video-2-dark.svg"><img width="32.6%" src="assets/profile/video-2-light.svg" alt="269 holo cards, one game: Zero Shot × Codemotion Milan 2026 #Shorts"></picture></a>
+<a href="https://www.youtube.com/watch?v=H4kOl3wMkUQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/video-3-dark.svg"><img width="32.6%" src="assets/profile/video-3-light.svg" alt="Pokémon Smeraldo, ma lo starter è un'IA"></picture></a>
 </p>
 
 <details>
@@ -71,4 +71,4 @@ The long version lives at **[davide97g.github.io/davide97g](https://davide97g.gi
 
 <br/>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/footer-dark.svg"><img width="100%" src="assets/profile/footer-light.svg" alt="Snapshot taken 6 Nov 2026"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/footer-dark.svg"><img width="100%" src="assets/profile/footer-light.svg" alt="Snapshot taken 7 Nov 2026"></picture>
