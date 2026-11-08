@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T11:44:52.483Z",
+  "generatedAt": "2026-11-08T11:56:43.528Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
@@ -7,44 +7,14 @@
     "createdAt": "2018-11-29T12:21:46Z",
     "followers": 8,
     "following": 7,
-    "publicRepos": 71
+    "publicRepos": 72
   },
   "contributions": {
-    "total": 1693,
-    "commits": 1639,
+    "total": 1697,
+    "commits": 1642,
     "pullRequests": 10,
     "issues": 3,
     "weeks": [
-      [
-        {
-          "date": "2025-11-02",
-          "count": 0
-        },
-        {
-          "date": "2025-11-03",
-          "count": 0
-        },
-        {
-          "date": "2025-11-04",
-          "count": 0
-        },
-        {
-          "date": "2025-11-05",
-          "count": 0
-        },
-        {
-          "date": "2025-11-06",
-          "count": 0
-        },
-        {
-          "date": "2025-11-07",
-          "count": 0
-        },
-        {
-          "date": "2025-11-08",
-          "count": 0
-        }
-      ],
       [
         {
           "date": "2025-11-09",
@@ -1602,12 +1572,34 @@
         },
         {
           "date": "2026-11-07",
-          "count": 1
+          "count": 5
+        }
+      ],
+      [
+        {
+          "date": "2026-11-08",
+          "count": 0
         }
       ]
     ]
   },
   "recent": [
+    {
+      "name": "touchgrass",
+      "description": "An endless anime grassland in the browser: walk through it, feel the wind, breathe. WebGL2 + three.js, procedural everything.",
+      "url": "https://github.com/davide97g/touchgrass",
+      "language": "TypeScript",
+      "stars": 0,
+      "pushedAt": "2026-11-07T16:29:36Z"
+    },
+    {
+      "name": "webverse",
+      "description": "Reshape any website by chatting with a local Claude Code. Chrome extension + local bridge to claude -p.",
+      "url": "https://github.com/davide97g/webverse",
+      "language": "JavaScript",
+      "stars": 0,
+      "pushedAt": "2026-11-07T14:35:59Z"
+    },
     {
       "name": "homelab",
       "description": "Everything that runs on my homelab: apps, stacks, runbooks, one repo",
@@ -1615,14 +1607,6 @@
       "language": "Swift",
       "stars": 0,
       "pushedAt": "2026-11-07T11:29:00Z"
-    },
-    {
-      "name": "touchgrass",
-      "description": "An endless anime grassland in the browser: walk through it, feel the wind, breathe. WebGL2 + three.js, procedural everything.",
-      "url": "https://github.com/davide97g/touchgrass",
-      "language": "TypeScript",
-      "stars": 0,
-      "pushedAt": "2026-11-06T16:12:56Z"
     },
     {
       "name": "yt-thumb-gen",
@@ -1647,14 +1631,6 @@
       "language": "TypeScript",
       "stars": 0,
       "pushedAt": "2026-11-02T23:40:08Z"
-    },
-    {
-      "name": "autocratico",
-      "description": "Local register for Italian bureaucracy: deadlines, cases and a Claude Code chat. Data stays on your machine.",
-      "url": "https://github.com/davide97g/autocratico",
-      "language": "TypeScript",
-      "stars": 4,
-      "pushedAt": "2026-11-02T23:36:11Z"
     }
   ],
   "videos": [
@@ -1662,13 +1638,13 @@
       "id": "FSdOmHUcD5w",
       "title": "Dopo il vibecoding: Touch Grass | Organic Software Experience",
       "published": "2026-11-06T16:41:29+00:00",
-      "views": 41
+      "views": 50
     },
     {
       "id": "4ldZEV2msNw",
       "title": "269 holo cards, one game: Zero Shot × Codemotion Milan 2026 #Shorts",
       "published": "2026-11-02T18:30:15+00:00",
-      "views": 37
+      "views": 38
     },
     {
       "id": "H4kOl3wMkUQ",
