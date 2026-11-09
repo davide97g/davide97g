@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T11:56:43.528Z",
+  "generatedAt": "2026-11-09T13:55:04.142Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
@@ -1578,6 +1578,10 @@
       [
         {
           "date": "2026-11-08",
+          "count": 0
+        },
+        {
+          "date": "2026-11-09",
           "count": 0
         }
       ]
