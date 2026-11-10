@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T13:55:04.142Z",
+  "generatedAt": "2026-11-10T13:28:51.625Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
@@ -1583,6 +1583,10 @@
         {
           "date": "2026-11-09",
           "count": 0
+        },
+        {
+          "date": "2026-11-10",
+          "count": 0
         }
       ]
     ]
@@ -1642,13 +1646,13 @@
       "id": "FSdOmHUcD5w",
       "title": "Dopo il vibecoding: Touch Grass | Organic Software Experience",
       "published": "2026-11-06T16:41:29+00:00",
-      "views": 50
+      "views": 53
     },
     {
       "id": "4ldZEV2msNw",
       "title": "269 holo cards, one game: Zero Shot × Codemotion Milan 2026 #Shorts",
       "published": "2026-11-02T18:30:15+00:00",
-      "views": 38
+      "views": 39
     },
     {
       "id": "H4kOl3wMkUQ",
