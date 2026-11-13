@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T13:46:40.240Z",
+  "generatedAt": "2026-11-13T13:07:49.966Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
@@ -10,8 +10,8 @@
     "publicRepos": 72
   },
   "contributions": {
-    "total": 1698,
-    "commits": 1643,
+    "total": 1703,
+    "commits": 1648,
     "pullRequests": 10,
     "issues": 3,
     "weeks": [
@@ -1586,7 +1586,7 @@
         },
         {
           "date": "2026-11-10",
-          "count": 1
+          "count": 3
         },
         {
           "date": "2026-11-11",
@@ -1595,11 +1595,23 @@
         {
           "date": "2026-11-12",
           "count": 0
+        },
+        {
+          "date": "2026-11-13",
+          "count": 3
         }
       ]
     ]
   },
   "recent": [
+    {
+      "name": "homelab",
+      "description": "Everything that runs on my homelab: apps, stacks, runbooks, one repo",
+      "url": "https://github.com/davide97g/homelab",
+      "language": "Swift",
+      "stars": 0,
+      "pushedAt": "2026-11-13T13:06:10Z"
+    },
     {
       "name": "touchgrass",
       "description": "An endless anime grassland in the browser: walk through it, feel the wind, breathe. WebGL2 + three.js, procedural everything.",
@@ -1615,14 +1627,6 @@
       "language": "JavaScript",
       "stars": 0,
       "pushedAt": "2026-11-07T14:35:59Z"
-    },
-    {
-      "name": "homelab",
-      "description": "Everything that runs on my homelab: apps, stacks, runbooks, one repo",
-      "url": "https://github.com/davide97g/homelab",
-      "language": "Swift",
-      "stars": 0,
-      "pushedAt": "2026-11-07T11:29:00Z"
     },
     {
       "name": "yt-thumb-gen",
@@ -1654,7 +1658,7 @@
       "id": "wh92IipVS0s",
       "title": "Aiutami a Creare un Business di CARTE: Q&A in chat",
       "published": "2026-11-12T08:32:29+00:00",
-      "views": 67
+      "views": 90
     },
     {
       "id": "FSdOmHUcD5w",
