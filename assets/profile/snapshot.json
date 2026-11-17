@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T13:39:59.929Z",
+  "generatedAt": "2026-11-17T14:25:27.174Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
@@ -1583,6 +1583,10 @@
         {
           "date": "2026-11-16",
           "count": 1
+        },
+        {
+          "date": "2026-11-17",
+          "count": 0
         }
       ]
     ]
@@ -1639,22 +1643,22 @@
   ],
   "videos": [
     {
+      "id": "DPdfnXfLKTI",
+      "title": "isoworld - a day in the life of a cozy pixel art explorer",
+      "published": "2026-11-16T18:40:32+00:00",
+      "views": 147
+    },
+    {
       "id": "wh92IipVS0s",
       "title": "Aiutami a Creare un Business di CARTE: Q&A in chat",
       "published": "2026-11-12T08:32:29+00:00",
-      "views": 121
+      "views": 123
     },
     {
       "id": "FSdOmHUcD5w",
       "title": "Dopo il vibecoding: Touch Grass | Organic Software Experience",
       "published": "2026-11-06T16:41:29+00:00",
       "views": 65
-    },
-    {
-      "id": "4ldZEV2msNw",
-      "title": "269 holo cards, one game: Zero Shot × Codemotion Milan 2026 #Shorts",
-      "published": "2026-11-02T18:30:15+00:00",
-      "views": 44
     }
   ]
 }
