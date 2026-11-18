@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T14:25:27.174Z",
+  "generatedAt": "2026-11-18T13:59:49.288Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
@@ -1587,6 +1587,10 @@
         {
           "date": "2026-11-17",
           "count": 0
+        },
+        {
+          "date": "2026-11-18",
+          "count": 0
         }
       ]
     ]
@@ -1646,7 +1650,7 @@
       "id": "DPdfnXfLKTI",
       "title": "isoworld - a day in the life of a cozy pixel art explorer",
       "published": "2026-11-16T18:40:32+00:00",
-      "views": 147
+      "views": 168
     },
     {
       "id": "wh92IipVS0s",
@@ -1658,7 +1662,7 @@
       "id": "FSdOmHUcD5w",
       "title": "Dopo il vibecoding: Touch Grass | Organic Software Experience",
       "published": "2026-11-06T16:41:29+00:00",
-      "views": 65
+      "views": 66
     }
   ]
 }
