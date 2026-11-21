@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T14:01:48.125Z",
+  "generatedAt": "2026-11-21T13:29:00.893Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
@@ -7,12 +7,12 @@
     "createdAt": "2018-11-29T12:21:46Z",
     "followers": 8,
     "following": 7,
-    "publicRepos": 72
+    "publicRepos": 73
   },
   "contributions": {
-    "total": 1673,
-    "commits": 1620,
-    "pullRequests": 9,
+    "total": 1686,
+    "commits": 1630,
+    "pullRequests": 11,
     "issues": 3,
     "weeks": [
       [
@@ -1598,7 +1598,11 @@
         },
         {
           "date": "2026-11-20",
-          "count": 0
+          "count": 5
+        },
+        {
+          "date": "2026-11-21",
+          "count": 8
         }
       ]
     ]
@@ -1610,7 +1614,7 @@
       "url": "https://github.com/davide97g/homelab",
       "language": "Swift",
       "stars": 0,
-      "pushedAt": "2026-11-18T23:52:43Z"
+      "pushedAt": "2026-11-21T11:58:42Z"
     },
     {
       "name": "touchgrass",
@@ -1655,22 +1659,22 @@
   ],
   "videos": [
     {
+      "id": "pstbcl4q0U8",
+      "title": "Davide Ghiotto Live Stream",
+      "published": "2026-06-27T17:16:21+00:00",
+      "views": 28
+    },
+    {
+      "id": "H8kZN2KhaJA",
+      "title": "ciamioncino - arena",
+      "published": "2026-11-20T19:40:28+00:00",
+      "views": 23
+    },
+    {
       "id": "DPdfnXfLKTI",
       "title": "isoworld - a day in the life of a cozy pixel art explorer",
       "published": "2026-11-16T18:40:32+00:00",
       "views": 174
-    },
-    {
-      "id": "wh92IipVS0s",
-      "title": "Aiutami a Creare un Business di CARTE: Q&A in chat",
-      "published": "2026-11-12T08:32:29+00:00",
-      "views": 125
-    },
-    {
-      "id": "FSdOmHUcD5w",
-      "title": "Dopo il vibecoding: Touch Grass | Organic Software Experience",
-      "published": "2026-11-06T16:41:29+00:00",
-      "views": 69
     }
   ]
 }

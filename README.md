@@ -38,9 +38,9 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/label-channel-dark.svg"><img width="100%" src="assets/profile/label-channel-light.svg" alt="Channel — Latest uploads on @davideghi"></picture>
 
 <p>
-<a href="https://www.youtube.com/watch?v=DPdfnXfLKTI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/video-1-dark.svg"><img width="32.6%" src="assets/profile/video-1-light.svg" alt="isoworld - a day in the life of a cozy pixel art explorer"></picture></a>
-<a href="https://www.youtube.com/watch?v=wh92IipVS0s"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/video-2-dark.svg"><img width="32.6%" src="assets/profile/video-2-light.svg" alt="Aiutami a Creare un Business di CARTE: Q&A in chat"></picture></a>
-<a href="https://www.youtube.com/watch?v=FSdOmHUcD5w"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/video-3-dark.svg"><img width="32.6%" src="assets/profile/video-3-light.svg" alt="Dopo il vibecoding: Touch Grass | Organic Software Experience"></picture></a>
+<a href="https://www.youtube.com/watch?v=pstbcl4q0U8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/video-1-dark.svg"><img width="32.6%" src="assets/profile/video-1-light.svg" alt="Davide Ghiotto Live Stream"></picture></a>
+<a href="https://www.youtube.com/watch?v=H8kZN2KhaJA"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/video-2-dark.svg"><img width="32.6%" src="assets/profile/video-2-light.svg" alt="ciamioncino - arena"></picture></a>
+<a href="https://www.youtube.com/watch?v=DPdfnXfLKTI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/video-3-dark.svg"><img width="32.6%" src="assets/profile/video-3-light.svg" alt="isoworld - a day in the life of a cozy pixel art explorer"></picture></a>
 </p>
 
 <details>
@@ -71,4 +71,4 @@ The long version lives at **[davide97g.github.io/davide97g](https://davide97g.gi
 
 <br/>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/footer-dark.svg"><img width="100%" src="assets/profile/footer-light.svg" alt="Snapshot taken 20 Nov 2026"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile/footer-dark.svg"><img width="100%" src="assets/profile/footer-light.svg" alt="Snapshot taken 21 Nov 2026"></picture>
