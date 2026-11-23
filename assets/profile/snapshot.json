@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T13:22:02.313Z",
+  "generatedAt": "2026-11-23T15:59:10.752Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
@@ -10,8 +10,8 @@
     "publicRepos": 73
   },
   "contributions": {
-    "total": 1686,
-    "commits": 1630,
+    "total": 1673,
+    "commits": 1617,
     "pullRequests": 11,
     "issues": 3,
     "weeks": [
@@ -1578,6 +1578,10 @@
       [
         {
           "date": "2026-11-22",
+          "count": 1
+        },
+        {
+          "date": "2026-11-23",
           "count": 0
         }
       ]
@@ -1590,7 +1594,7 @@
       "url": "https://github.com/davide97g/homelab",
       "language": "Swift",
       "stars": 0,
-      "pushedAt": "2026-11-21T11:58:42Z"
+      "pushedAt": "2026-11-22T21:59:56Z"
     },
     {
       "name": "touchgrass",
@@ -1638,19 +1642,19 @@
       "id": "pstbcl4q0U8",
       "title": "Davide Ghiotto Live Stream",
       "published": "2026-11-22T00:23:29+00:00",
-      "views": 58
+      "views": 63
     },
     {
       "id": "H8kZN2KhaJA",
       "title": "ciamioncino - arena",
       "published": "2026-11-20T19:40:28+00:00",
-      "views": 34
+      "views": 37
     },
     {
       "id": "DPdfnXfLKTI",
       "title": "isoworld - a day in the life of a cozy pixel art explorer",
       "published": "2026-11-16T18:40:32+00:00",
-      "views": 177
+      "views": 179
     }
   ]
 }
