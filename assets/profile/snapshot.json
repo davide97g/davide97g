@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:53:53.573Z",
+  "generatedAt": "2026-11-25T15:36:52.789Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
@@ -10,8 +10,8 @@
     "publicRepos": 73
   },
   "contributions": {
-    "total": 1699,
-    "commits": 1643,
+    "total": 1734,
+    "commits": 1678,
     "pullRequests": 11,
     "issues": 3,
     "weeks": [
@@ -1587,6 +1587,10 @@
         {
           "date": "2026-11-24",
           "count": 3
+        },
+        {
+          "date": "2026-11-25",
+          "count": 35
         }
       ]
     ]
@@ -1598,7 +1602,15 @@
       "url": "https://github.com/davide97g/homelab",
       "language": "Swift",
       "stars": 0,
-      "pushedAt": "2026-11-24T00:40:18Z"
+      "pushedAt": "2026-11-25T12:31:14Z"
+    },
+    {
+      "name": "finance-davide-ghiotto",
+      "description": null,
+      "url": "https://github.com/davide97g/finance-davide-ghiotto",
+      "language": "TypeScript",
+      "stars": 0,
+      "pushedAt": "2026-11-25T00:22:04Z"
     },
     {
       "name": "touchgrass",
@@ -1623,14 +1635,6 @@
       "language": "TypeScript",
       "stars": 0,
       "pushedAt": "2026-11-02T23:41:04Z"
-    },
-    {
-      "name": "finance-davide-ghiotto",
-      "description": null,
-      "url": "https://github.com/davide97g/finance-davide-ghiotto",
-      "language": "TypeScript",
-      "stars": 0,
-      "pushedAt": "2026-11-02T23:40:16Z"
     },
     {
       "name": "calorico",
@@ -1658,7 +1662,7 @@
       "id": "DPdfnXfLKTI",
       "title": "isoworld - a day in the life of a cozy pixel art explorer",
       "published": "2026-11-16T18:40:32+00:00",
-      "views": 179
+      "views": 183
     }
   ]
 }
