@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T15:18:13.752Z",
+  "generatedAt": "2026-11-27T15:06:04.478Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
@@ -7,11 +7,11 @@
     "createdAt": "2018-11-29T12:21:46Z",
     "followers": 8,
     "following": 7,
-    "publicRepos": 73
+    "publicRepos": 75
   },
   "contributions": {
-    "total": 1736,
-    "commits": 1680,
+    "total": 1746,
+    "commits": 1688,
     "pullRequests": 11,
     "issues": 3,
     "weeks": [
@@ -1594,19 +1594,39 @@
         },
         {
           "date": "2026-11-26",
-          "count": 1
+          "count": 4
+        },
+        {
+          "date": "2026-11-27",
+          "count": 7
         }
       ]
     ]
   },
   "recent": [
     {
+      "name": "attraversa-milano",
+      "description": "Attraversa Milano: arcade a salti infinito, un piccione nella Milano di dicembre. Giorno 8 di Videogiochi della mia infanzia.",
+      "url": "https://github.com/davide97g/attraversa-milano",
+      "language": "TypeScript",
+      "stars": 0,
+      "pushedAt": "2026-11-27T14:33:22Z"
+    },
+    {
       "name": "homelab",
       "description": "Everything that runs on my homelab: apps, stacks, runbooks, one repo",
       "url": "https://github.com/davide97g/homelab",
       "language": "Swift",
       "stars": 0,
-      "pushedAt": "2026-11-26T14:38:42Z"
+      "pushedAt": "2026-11-27T10:38:25Z"
+    },
+    {
+      "name": "torre-hype",
+      "description": "La Torre dell'Hype: platform verticale pixel art a tema AI (giorno 1/31 di Videogiochi della mia infanzia)",
+      "url": "https://github.com/davide97g/torre-hype",
+      "language": "TypeScript",
+      "stars": 0,
+      "pushedAt": "2026-11-27T09:29:08Z"
     },
     {
       "name": "finance-davide-ghiotto",
@@ -1631,22 +1651,6 @@
       "language": "JavaScript",
       "stars": 0,
       "pushedAt": "2026-11-07T14:35:59Z"
-    },
-    {
-      "name": "yt-thumb-gen",
-      "description": null,
-      "url": "https://github.com/davide97g/yt-thumb-gen",
-      "language": "TypeScript",
-      "stars": 0,
-      "pushedAt": "2026-11-02T23:41:04Z"
-    },
-    {
-      "name": "calorico",
-      "description": "Contacalorie e diario di macronutrienti in italiano, costruito attorno ai prodotti dei supermercati italiani. React + Fastify + Postgres, PWA installabile, AGPL-3.0.",
-      "url": "https://github.com/davide97g/calorico",
-      "language": "TypeScript",
-      "stars": 0,
-      "pushedAt": "2026-11-02T23:40:08Z"
     }
   ],
   "videos": [
@@ -1666,7 +1670,7 @@
       "id": "DPdfnXfLKTI",
       "title": "isoworld - a day in the life of a cozy pixel art explorer",
       "published": "2026-11-16T18:40:32+00:00",
-      "views": 183
+      "views": 184
     }
   ]
 }
