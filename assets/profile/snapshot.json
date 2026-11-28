@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T15:06:04.478Z",
+  "generatedAt": "2026-11-28T14:13:04.229Z",
   "user": {
     "name": "Davide Ghiotto",
     "login": "davide97g",
@@ -7,11 +7,11 @@
     "createdAt": "2018-11-29T12:21:46Z",
     "followers": 8,
     "following": 7,
-    "publicRepos": 75
+    "publicRepos": 79
   },
   "contributions": {
-    "total": 1746,
-    "commits": 1688,
+    "total": 1788,
+    "commits": 1726,
     "pullRequests": 11,
     "issues": 3,
     "weeks": [
@@ -1598,12 +1598,56 @@
         },
         {
           "date": "2026-11-27",
-          "count": 7
+          "count": 49
+        },
+        {
+          "date": "2026-11-28",
+          "count": 0
         }
       ]
     ]
   },
   "recent": [
+    {
+      "name": "homelab",
+      "description": "Everything that runs on my homelab: apps, stacks, runbooks, one repo",
+      "url": "https://github.com/davide97g/homelab",
+      "language": "Swift",
+      "stars": 0,
+      "pushedAt": "2026-11-27T20:47:18Z"
+    },
+    {
+      "name": "botte-da-dojo",
+      "description": "Botte da Dojo: picchiaduro kawaii ispirato a Little Fighter 2. Ninja, samurai, kunoichi e tanuki monaco contro briganti, oni e il Darumone.",
+      "url": "https://github.com/davide97g/botte-da-dojo",
+      "language": "TypeScript",
+      "stars": 0,
+      "pushedAt": "2026-11-27T17:58:05Z"
+    },
+    {
+      "name": "astromicio",
+      "description": "Astromicio: un gatto astronauta col jetpack tra stazioni, asteroidi e nebulose. Endless flyer a un tasto in pixel art per \"Videogiochi della mia infanzia\".",
+      "url": "https://github.com/davide97g/astromicio",
+      "language": "TypeScript",
+      "stars": 0,
+      "pushedAt": "2026-11-27T17:50:18Z"
+    },
+    {
+      "name": "pizza-volante",
+      "description": "Pizza Volante: Gennarino porta la pizza al concerto di Capodanno a Napoli con una Vespa volante. Gioco della serie Videogiochi della mia infanzia.",
+      "url": "https://github.com/davide97g/pizza-volante",
+      "language": "TypeScript",
+      "stars": 0,
+      "pushedAt": "2026-11-27T15:37:21Z"
+    },
+    {
+      "name": "pranzo-infinito",
+      "description": "Il Pranzo Infinito: endless runner 3D sulla tavolata di Natale, con la nonna e il mestolo alle calcagna e la tombola da completare. Serie Videogiochi della mia infanzia.",
+      "url": "https://github.com/davide97g/pranzo-infinito",
+      "language": "TypeScript",
+      "stars": 0,
+      "pushedAt": "2026-11-27T15:18:09Z"
+    },
     {
       "name": "attraversa-milano",
       "description": "Attraversa Milano: arcade a salti infinito, un piccione nella Milano di dicembre. Giorno 8 di Videogiochi della mia infanzia.",
@@ -1611,46 +1655,6 @@
       "language": "TypeScript",
       "stars": 0,
       "pushedAt": "2026-11-27T14:33:22Z"
-    },
-    {
-      "name": "homelab",
-      "description": "Everything that runs on my homelab: apps, stacks, runbooks, one repo",
-      "url": "https://github.com/davide97g/homelab",
-      "language": "Swift",
-      "stars": 0,
-      "pushedAt": "2026-11-27T10:38:25Z"
-    },
-    {
-      "name": "torre-hype",
-      "description": "La Torre dell'Hype: platform verticale pixel art a tema AI (giorno 1/31 di Videogiochi della mia infanzia)",
-      "url": "https://github.com/davide97g/torre-hype",
-      "language": "TypeScript",
-      "stars": 0,
-      "pushedAt": "2026-11-27T09:29:08Z"
-    },
-    {
-      "name": "finance-davide-ghiotto",
-      "description": null,
-      "url": "https://github.com/davide97g/finance-davide-ghiotto",
-      "language": "TypeScript",
-      "stars": 0,
-      "pushedAt": "2026-11-25T00:22:04Z"
-    },
-    {
-      "name": "touchgrass",
-      "description": "An endless anime grassland in the browser: walk through it, feel the wind, breathe. WebGL2 + three.js, procedural everything.",
-      "url": "https://github.com/davide97g/touchgrass",
-      "language": "TypeScript",
-      "stars": 0,
-      "pushedAt": "2026-11-10T16:04:49Z"
-    },
-    {
-      "name": "webverse",
-      "description": "Reshape any website by chatting with a local Claude Code. Chrome extension + local bridge to claude -p.",
-      "url": "https://github.com/davide97g/webverse",
-      "language": "JavaScript",
-      "stars": 0,
-      "pushedAt": "2026-11-07T14:35:59Z"
     }
   ],
   "videos": [
@@ -1664,7 +1668,7 @@
       "id": "H8kZN2KhaJA",
       "title": "ciamioncino - arena",
       "published": "2026-11-20T19:40:28+00:00",
-      "views": 37
+      "views": 38
     },
     {
       "id": "DPdfnXfLKTI",
